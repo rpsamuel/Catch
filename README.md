@@ -5,7 +5,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/hrtk60hv6tw6fght/branch/master?svg=true)](https://ci.appveyor.com/project/philsquared/catch/branch/master)
 [![Try online](https://img.shields.io/badge/try-online-blue.svg)](https://wandbox.org/permlink/IJ0n8142H2DROPIm)
 
-<a href="https://github.com/philsquared/Catch/releases/download/v1.9.7/catch.hpp">The latest, single header, version can be downloaded directly using this link</a>
+<a href="https://github.com/philsquared/Catch/releases/download/v1.9.7-develop.1/catch.hpp">The latest, single header, version can be downloaded directly using this link</a>
 
 ## What's the Catch?
 
